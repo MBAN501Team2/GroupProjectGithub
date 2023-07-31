@@ -1,6 +1,6 @@
 --- 
-title: "Ross Community Survival Kit"
-author: "Jie Wang"
+title: "A Minimal Book Example"
+author: "John Doe"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
